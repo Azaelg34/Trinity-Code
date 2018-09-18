@@ -22,7 +22,7 @@ A member of our party groaned over the thought of force-fed geese, but could not
 <a img=src"images/20180914_192327">
 <a img=src "images/20180914_201511">
 
-<a href="https://www.w3schools.com/" W3Schools link"target=_blank> W3Schools
+<a href="https://www.w3schools.com/"target=_blank> W3Schools
 <hr>
 <a href="https://www.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning/a/html-css-further-learning-what-to-learn-next"target=_blank> Khanacademy schools how to learn to code
 <hr>
