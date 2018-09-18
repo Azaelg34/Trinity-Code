@@ -2,7 +2,6 @@
 trinity first project
 <!DOCTYPE html>
 <html>
-<title>My webpage</title>
 <body>
 
 <h1>My Webpage</h1>
@@ -14,7 +13,7 @@ And some dishes, while good, were not of the sky-high standard that have earned 
 Prices have eased to the $15 to $20 range on the Hardware Grill’s many  “small plates”.  Two can now dine at what’s still the best “classic” restaurant in town for under $70.
 The beef carpaccio, scallops, smoked salmon, foie gras and the Hardware Grill’s iconic sea bass were excellent as always.
 </p>
-<img src="images/20180914_192226">
+<img src="img_20180914_192226">
 <p>
 But three dishes — the pork chop, risotto and lobster roll –  fell surprisingly short of Hardware Grill standards.
 A member of our party groaned over the thought of force-fed geese, but could not resist the tender, butter-smooth goose liver pate. Each mouthful of foie gras had that Hardware Grill touch, thanks to the accompanying onion jam and a sour cherry sauce.
