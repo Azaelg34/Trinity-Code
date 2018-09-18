@@ -19,7 +19,7 @@ The beef carpaccio, scallops, smoked salmon, foie gras and the Hardware Grill’
 But three dishes — the pork chop, risotto and lobster roll –  fell surprisingly short of Hardware Grill standards.
 A member of our party groaned over the thought of force-fed geese, but could not resist the tender, butter-smooth goose liver pate. Each mouthful of foie gras had that Hardware Grill touch, thanks to the accompanying onion jam and a sour cherry sauce.
 </p>
-<a img=src"images/20180914_192327">
+<a img=src"20180914_192226.jpg">
 <a img=src "images/20180914_201511">
 
 <a href="https://www.w3schools.com" target=_blank> W3Schools
